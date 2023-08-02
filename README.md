@@ -54,6 +54,7 @@ pip install numpy
 ```
 
 In order to work, the program requires the related input videos, which must respect the [Requirements](#Requirements) in terms of format.
+Also, the path to the package containing the videos is curretly hardcoded in the Jupyter Notebook, targeting as folder called "data", a folder sibling to the one containing the code, hence if required, the path can be updated to match any desired position for the package.
 
 ## Usage
 
