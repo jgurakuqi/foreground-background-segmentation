@@ -65,7 +65,7 @@ To run the projects it's required an IDE suitable to run the Jupyter Notebook.
 I implemented the code exploiting the problem-specific characteristics (e.g., semi-constant lightning, same shadow on the background fabric, ...), hence using image processing techniques specific wrt to it, at least for the custom segmentation, hence in order to readapt the custom segmentation algorithm many modifications might be required. On the other hand, the Watershed-based segmentation, followed a more generic approach, and it's easier to readapt to other problems.
 
 ```bash
-git clone https://github.com/jgurakuqi/foreground_background_segmentation
+git clone https://github.com/jgurakuqi/foreground-background-segmentation
 ```
 
 ## License
