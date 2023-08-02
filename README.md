@@ -1,4 +1,4 @@
-# foreground_background_segmentation
+# foreground-background-segmentation
 
 
 ## Table of Contents
