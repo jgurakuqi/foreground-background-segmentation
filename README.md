@@ -4,6 +4,7 @@
 ## Table of Contents
 
 - [Requirements](#Requirements)
+- [Implementation](#Implementation)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
@@ -20,7 +21,7 @@ The task is to create a Python program (or notebook) that:
 - saves the thresholded images onto a video named obj1_mask.mp4, ..., obj4_mask.mp4.
 - evaluates the results against a set of ground truth images.
 
-## Implementation nodes:
+## Implementation:
 
 **main_856180**:
 
